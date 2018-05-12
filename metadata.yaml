@@ -1,0 +1,38 @@
+_repo: Daniel-HjortMurhen-ytelm--viidess--n-yt-ksess--ja-nelj-ss--kuvaelmassa_18322
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cajander, Paavo Emil
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '4531'
+    url: http://www.gutenberg.org/2009/agents/4531
+    wikipedia: http://fi.wikipedia.org/wiki/Paavo_Cajander
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wecksell, J. J. (Josef Julius)
+    alias: Wecksell, Josef Julius
+    birthdate: 1838
+    deathdate: 1907
+    gutenberg_agent_id: '5347'
+    url: http://www.gutenberg.org/2009/agents/5347
+    wikipedia: http://fi.wikipedia.org/wiki/Josef_Julius_Wecksell
+description: ''
+gutenberg_issued: '2006-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18322'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hjort, Daniel Theodori, -1615 -- Drama'
+- !lcc 'PT'
+title: 'Daniel Hjort
+
+  Murhenäytelmä viidessä näytöksessä ja neljässä kuvaelmassa'
+url: http://www.gutenberg.org/ebooks/18322
